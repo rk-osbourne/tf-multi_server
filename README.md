@@ -1,2 +1,2 @@
-# tf-single_server
-Simple terraform project to launch a single EC2 server.
+# tf-multi_server
+Simple terraform project to launch a multi-server deployment with load balancer in AWS.
